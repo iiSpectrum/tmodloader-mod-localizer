@@ -4,7 +4,7 @@ namespace ModLocalizer
 {
     internal static class DefaultConfigurations
     {
-        public const string DefaultLanguage = "Chinese";
+        public const string DefaultLanguage = "English";
 
         public const string OutputFileNameFormat = "{0}_patched.tmod";
 
